@@ -1,0 +1,17 @@
+code,name,category,active
+BON-CONSUM,Bon consum,inventory-transfer,true
+BON-FISC-FURNIZOR,Bon fiscal furnizor,purchase-invoice,true
+CHITANTA-INCASARE,Chitanta incasare,payment-in,true
+CHITANTA-PLATA,Chitanta plata,payment-out,true
+COMANDA-CLIENT,Comanda client,sales-order,true
+COMANDA-FURNIZOR,Comanda furnizor,purchase-order,true
+FACT-FISC-CLIENT,Factura fiscala client,sales-invoice,true
+FACT-FISC-FURNIZOR,Factura fiscala furnizor,purchase-invoice,true
+FACT-PROFORM-CLIENT,Factura proforma client,sales-invoice,true
+LIVRARE-CLIENT,Livrare vanzari,sales-inventory-out,true
+OP-INCASARE,OP incasare,payment-in,true
+OP-PLATA,OP plata,payment-out,true
+RECEPTIE-FURNIZOR,Nota receptie cumparari,purchase-inventory-in,true
+RETUR-CLIENT,Nota receptie retur client,sales-inventory-in,true
+RETUR-FURNIZOR,Aviz expeditie retur furnizor,purchase-inventory-out,true
+TRANSFER-GESTIUNE,Transfer gestiune,inventory-transfer,true

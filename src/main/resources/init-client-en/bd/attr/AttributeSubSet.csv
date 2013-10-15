@@ -1,0 +1,6 @@
+attributeSet,sequenceNo,code,name,active,description
+LAPTOP,10,GENERAL,General,true,
+LAPTOP,20,PROCESSOR,Processor,true,
+LAPTOP,30,MEMORY,Memory,true,
+LAPTOP,40,HARD-DISK,Hard-disk,true,
+LAPTOP,50,DISPLAY,Display,true,

@@ -1,0 +1,5 @@
+code,name,active,description
+BED,Bed,true,
+LAPTOP,Laptop configuration,true,
+SOFA,Sofa,true,
+WATCH,Watch,true,

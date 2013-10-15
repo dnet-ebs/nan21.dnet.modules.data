@@ -1,0 +1,7 @@
+name,code,iconUrl,folder,active,notes
+Bedroom,BED,bedroom.gif,false,true,
+Laptops,LAPTOP,,false,true,
+Mouse,MOUSE,http://dnet.nan21.net/static-demo-resources/MM/product-categories/mice.jpg,false,true,
+Shirts,SHIRT,,false,true,
+Sofas,SOFA,,false,true,
+Watches,WATCH,,false,true,

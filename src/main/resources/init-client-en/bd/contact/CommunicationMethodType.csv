@@ -1,0 +1,8 @@
+name,description,type,active,refid
+email,Email address,email,true,B654A771-AD64-45C8-88E8-66DFE096E6AE
+fax,Fax number,phone,true,DDCC01F5-A69C-4B34-8428-952C43C88E50
+home-phone,Home phone number,phone,true,AF6E51ED-4D84-4D72-9AF3-436855A8352E
+mobile,Mobile number,phone,true,5C51DEF8-D2FB-42D5-98F3-E8A119A6EF3D
+office-phone,Office phone number,phone,true,5D570A20-7797-4C00-AC83-C90B545E7DF0
+skype-id,Skype account,messenger,true,AE3B7220-924E-4414-9386-DC8116E16099
+yahoo-id,Yahoo account,messenger,true,AF3B0C26-31C5-4ED4-AE47-1963C69A6C1F

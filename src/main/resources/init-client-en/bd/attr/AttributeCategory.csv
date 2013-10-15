@@ -1,0 +1,6 @@
+code,name,active
+COMMONS,Common attributes,true
+TECH-HDD,Hard-disk,true
+TECH-CPU,Processor,true
+TECH-DISPLAY,Display,true
+TECH-MEMORY,Memory,true

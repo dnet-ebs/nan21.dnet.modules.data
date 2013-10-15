@@ -1,0 +1,14 @@
+category,code,name,description,dataType,listOfvalues,uom,active
+COMMONS,C-COLOR,Color,,string,,,true
+COMMONS,C-DIAMETER,Diameter,,string,,,true
+COMMONS,C-LENGTH,Length,,string,,,true
+COMMONS,C-MATERIAL,Material,,string,,,true
+COMMONS,C-WIDTH,Width,,string,,,true
+TECH-CPU,CPU-FREQ,Frequency,Processor speed expressed in mega-hertz (MHz),integer,,MHZ,true
+TECH-CPU,CPU-MANUFACT,Manufacturer,Processor manufacturer,string,"Intel,AMD",,true
+TECH-DISPLAY,DISP-TECHNOLOGY,Technology,Display technology,string,"TFT,LCD,LED",,true
+TECH-DISPLAY,DISP-WIDTH,Width,Display width expressed in inches,decimal,,INCH,true
+TECH-HDD,HDD-SIZE,Size,,integer,,GB,true
+TECH-HDD,HDD-TYPE,Type,,string,"IDE,SATA",,true
+TECH-MEMORY,MEM-SIZE,Size,Memory size expressed in Gb,decimal,,GB,true
+TECH-MEMORY,MEM-TYPE,Type,Memory type,string,"DDR2,DDR3",,true

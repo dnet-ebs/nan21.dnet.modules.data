@@ -1,0 +1,5 @@
+name,days,description,active
+7-day,15,Within 7 days,true
+15-day,15,Within 15 days,true
+30-day,30,Within 30 days,true
+immediate,0,Immediate payment,true

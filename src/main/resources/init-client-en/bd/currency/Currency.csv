@@ -1,0 +1,17 @@
+name,code,iso3,active
+Australian Dollar,AUD,AUD,false
+British Pound,GBP,GBP,false
+Canadian Dollar,CAD,CAD,false
+Euro,EUR,EUR,true
+Hong Kong Dollar,HKD,HKD,false
+Hungarian Forint,HUF,HUF,false
+Japanese Yen,JPY,JPY,false
+New Zealand Dollar,NZD,NZD,false
+Norwegian Kroner,NOK,NOK,false
+Romanian Leu,RON,RON,true
+Russian Rouble,RUB,RUB,false
+Saudi Riyal,SAR,SAR,false
+Swedish Krona,SEK,SEK,false
+Swiss Franc,CHF,CHF,false
+Taiwan Dollar,TWD,TWD,false
+US Dollar,USD,USD,true

@@ -1,0 +1,8 @@
+attributeSet,attributeSubSet,sequenceNo,attribute,inDescription,active
+LAPTOP,DISPLAY,20,DISP-TECHNOLOGY,false,true
+LAPTOP,DISPLAY,30,DISP-WIDTH,false,true
+LAPTOP,GENERAL,10,C-COLOR,false,true
+LAPTOP,MEMORY,10,MEM-SIZE,false,true
+LAPTOP,MEMORY,20,MEM-TYPE,false,true
+LAPTOP,PROCESSOR,10,CPU-MANUFACT,false,true
+LAPTOP,PROCESSOR,20,CPU-FREQ,false,true
