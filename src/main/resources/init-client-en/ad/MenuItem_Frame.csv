@@ -52,6 +52,7 @@ sequenceNo,name,title,frame,bundle,menuItem,active
 30,productAccountType_Ui,Product account types,ProductAccountType_Ui,nan21.dnet.module.md.ui.extjs,md-mm,true
 40,product_Ui,Products,Product_Ui,nan21.dnet.module.md.ui.extjs,md-mm,true
 50,productAccount_Ui,Product accounts,ProductAccount_Ui,nan21.dnet.module.md.ui.extjs,md-mm,true
+60,productMnt_Ui,Products maintenance,ProductMnt_Ui,nan21.dnet.module.md.ui.extjs,md-mm,true
 10,customerAccount_Ui,Customer accounts,CustomerAccount_Ui,nan21.dnet.module.sd.ui.extjs,sd-account,true
 10,salesOrder_Ui,Orders,SalesOrder_Ui,nan21.dnet.module.sd.ui.extjs,sd-order,true
 10,salesInvoice_Ui,Invoices,SalesInvoice_Ui,nan21.dnet.module.sd.ui.extjs,sd-invoice,true
