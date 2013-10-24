@@ -5,6 +5,7 @@ sequenceNo,name,title,frame,bundle,menuItem,active
 30,param_Ui,Parameters,MyParam_Ui,nan21.dnet.module.ad.ui.extjs,ad-system,true
 40,paramValue_Ui,Parameter values,ParamValue_Ui,nan21.dnet.module.ad.ui.extjs,ad-system,true
 50,frameExtension_Ui,Frame extensions,FrameExtension_Ui,nan21.dnet.module.ad.ui.extjs,ad-system,true
+60,viewState_Ui,View states,ViewState_Ui,nan21.dnet.module.ad.ui.extjs,ad-system,true
 10,jobContext_Ui,Job contexts,JobContext_Ui,nan21.dnet.module.ad.ui.extjs,ad-scheduler,true
 20,jobTimer_Ui,Job schedules,JobTimer_Ui,nan21.dnet.module.ad.ui.extjs,ad-scheduler,true
 30,jobLog_Ui,Job logs,JobLog_Ui,nan21.dnet.module.ad.ui.extjs,ad-scheduler,true
