@@ -4,7 +4,7 @@ sequenceNo,name,title,description,active
 30,md,Master-data,,true
 40,sd,Sales/Distribution,,false
 50,sc,Purchasing,,false
-60,iv,Inventory,,false
+60,iv,Inventory,,true
 70,fi,Financials,,false
 80,op,Operations,,false
 90,hr,Human resources,,false

@@ -13,7 +13,7 @@ sequenceNo,name,title,menu,active
 30,bd-uom,Unit of measure,bd,true
 40,bd-classification,Classification,bd,true
 45,bd-contact,Contact,bd,true
-50,bd-note,Note,bd,true
+50,bd-note,Note,bd,false
 60,bd-attachment,Attachment,bd,true
 70,bd-attr,Attribute,bd,true
 80,bd-elem,Element,bd,false
@@ -33,3 +33,4 @@ sequenceNo,name,title,menu,active
 20,sc-order,Order,sc,true
 30,sc-invoice,Invoice,sc,true
 40,sc-financial,Financial,sc,true
+10,iv-base,Base,,true

@@ -32,6 +32,7 @@ sequenceNo,name,title,frame,bundle,menuItem,active
 10,attachmentType_Ui,Attachment types,AttachmentType_Ui,nan21.dnet.module.bd.ui.extjs,bd-attachment,true
 10,attributeDefinition_Ui,Attributes definition,AttributeDefinition_Ui,nan21.dnet.module.bd.ui.extjs,bd-attr,true
 20,attributeSet_Ui,Attribute sets definition,AttributeSet_Ui,nan21.dnet.module.bd.ui.extjs,bd-attr,true
+30,lookupItem_Ui,Data sets,LookupItem_Ui,nan21.dnet.module.bd.ui.extjs,bd-attr,true
 10,bank_Ui,Banks,Bank_Ui,nan21.dnet.module.md.ui.extjs,md-base-bank,true
 20,bankBranch_Ui,Bank branches,BankBranch_Ui,nan21.dnet.module.md.ui.extjs,md-base-bank,true
 10,calendar_Ui,Calendars,Calendar_Ui,nan21.dnet.module.md.ui.extjs,md-base-period,true
@@ -62,3 +63,4 @@ sequenceNo,name,title,frame,bundle,menuItem,active
 10,purchaseOrder_Ui,Orders,PurchaseOrder_Ui,nan21.dnet.module.sc.ui.extjs,sc-order,true
 10,purchaseInvoice_Ui,Invoices,PurchaseInvoice_Ui,nan21.dnet.module.sc.ui.extjs,sc-invoice,true
 10,paymentOut_Ui,Payments out,PaymentOut_Ui,nan21.dnet.module.sc.ui.extjs,sc-financial,true
+10,inventory_Ui,Inventories,Inventory_Ui,nan21.dnet.module.md.ui.extjs,iv-base,true

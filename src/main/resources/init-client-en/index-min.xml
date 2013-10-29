@@ -1,0 +1,25 @@
+<package>
+<sets>
+	<set>
+		<files>
+			<file>
+		 		<ds>Menu_Ds</ds>
+		 		<file>ad/Menu.csv</file>
+		    </file>
+		    <file>
+		 		<ds>MenuItem_Ds</ds>
+		 		<file>ad/MenuItem_Folder.csv</file>
+		     </file>
+		     <file>
+		 		<ds>MenuItem_Ds</ds>
+		 		<file>ad/MenuItem_Frame.csv</file>
+		     </file>
+		     <file>
+		 		<ds>MenuItem_Ds</ds>
+		 		<file>ad/MenuItem_Parent.csv</file>
+		 		<ukFieldName>name</ukFieldName>
+		     </file>
+		</files>
+	</set>
+</sets>
+</package>
