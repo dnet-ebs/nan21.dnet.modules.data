@@ -25,6 +25,7 @@ sequenceNo,name,title,frame,bundle,menuItem,active
 30,uomConversion_Ui,Unit of measure conversions,UomConversion_Ui,nan21.dnet.module.bd.ui.extjs,bd-uom,true
 10,classification_Ui,Classifications,Classification_Ui,nan21.dnet.module.bd.ui.extjs,bd-classification,true
 10,communicationMethodTypes_Ui,Communication method,CommunicationMethodTypes_Ui,nan21.dnet.module.bd.ui.extjs,bd-contact,true
+20,communicationMethod_Ui,Communications,CommunicationMethod_Ui,nan21.dnet.module.bd.ui.extjs,bd-contact,false
 10,country_Ui,Countries,Country_Ui,nan21.dnet.module.bd.ui.extjs,bd-geo,true
 20,countryMD_Ui,Country with details,CountryMD_Ui,nan21.dnet.module.bd.ui.extjs,bd-geo,true
 30,region_Ui,Regions,Region_Ui,nan21.dnet.module.bd.ui.extjs,bd-geo,true
