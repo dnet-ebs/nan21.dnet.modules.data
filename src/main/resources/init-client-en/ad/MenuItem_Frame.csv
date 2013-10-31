@@ -45,17 +45,19 @@ sequenceNo,name,title,frame,bundle,menuItem,active
 20,tax_Ui,Taxes,Tax_Ui,nan21.dnet.module.md.ui.extjs,md-base-tax,true
 10,orgType_Ui,Organization types,OrgType_Ui,nan21.dnet.module.md.ui.extjs,md-org,true
 20,org_Ui,Organizations,Org_Ui,nan21.dnet.module.md.ui.extjs,md-org,true
-10,legalForm_Ui,Company legal forms,LegalForm_Ui,nan21.dnet.module.md.ui.extjs,md-bp,true
-15,bpContactPosition_Ui,Contact positions,BpContactPosition_Ui,nan21.dnet.module.md.ui.extjs,md-bp,true
-20,bpAccountGroup_Ui,Customer/Vendor groups,BpAccountGroup_Ui,nan21.dnet.module.md.ui.extjs,md-bp,true
+10,legalForm_Ui,Company legal forms,LegalForm_Ui,nan21.dnet.module.md.ui.extjs,md-bp-base,true
+15,bpContactPosition_Ui,Contact positions,BpContactPosition_Ui,nan21.dnet.module.md.ui.extjs,md-bp-base,true
+20,bpAccountGroup_Ui,Customer/Vendor groups,BpAccountGroup_Ui,nan21.dnet.module.md.ui.extjs,md-bp-base,true
 30,bp_Ui,Business partners,Bp_Ui,nan21.dnet.module.md.ui.extjs,md-bp,true
 40,bpAccount_Ui,Business partner accounts,BpAccount_Ui,nan21.dnet.module.md.ui.extjs,md-bp,true
-10,productManufacturer_Ui,Product manufacturers,ProductManufacturer_Ui,nan21.dnet.module.md.ui.extjs,md-mm,true
-20,productCategory_Ui,Product categories,ProductCategory_Ui,nan21.dnet.module.md.ui.extjs,md-mm,true
-30,productAccountType_Ui,Product account types,ProductAccountType_Ui,nan21.dnet.module.md.ui.extjs,md-mm,true
-40,product_Ui,Products,Product_Ui,nan21.dnet.module.md.ui.extjs,md-mm,true
-50,productAccount_Ui,Product accounts,ProductAccount_Ui,nan21.dnet.module.md.ui.extjs,md-mm,true
-60,productMnt_Ui,Products maintenance,ProductMnt_Ui,nan21.dnet.module.md.ui.extjs,md-mm,true
+10,productManufacturer_Ui,Product manufacturers,ProductManufacturer_Ui,nan21.dnet.module.md.ui.extjs,md-mm-base,true
+20,productAccountType_Ui,Product account types,ProductAccountType_Ui,nan21.dnet.module.md.ui.extjs,md-mm-base,true
+100,productCategory_Ui,Product categories,ProductCategory_Ui,nan21.dnet.module.md.ui.extjs,md-mm,true
+110,product_Ui,Products,Product_Ui,nan21.dnet.module.md.ui.extjs,md-mm,true
+120,productAccount_Ui,Product accounts,ProductAccount_Ui,nan21.dnet.module.md.ui.extjs,md-mm,true
+20,productCategorySubstitute_Ui,Category substitutes,ProductCategorySubstitute_Ui,nan21.dnet.module.md.ui.extjs,md-mm-mnt,true
+50,productMnt_Ui,Products,ProductMnt_Ui,nan21.dnet.module.md.ui.extjs,md-mm-mnt,true
+60,productSubstitute_Ui,Product substitutes,ProductSubstitute_Ui,nan21.dnet.module.md.ui.extjs,md-mm-mnt,true
 10,customerAccount_Ui,Customer accounts,CustomerAccount_Ui,nan21.dnet.module.sd.ui.extjs,sd-account,true
 10,salesOrder_Ui,Orders,SalesOrder_Ui,nan21.dnet.module.sd.ui.extjs,sd-order,true
 10,salesInvoice_Ui,Invoices,SalesInvoice_Ui,nan21.dnet.module.sd.ui.extjs,sd-invoice,true

@@ -25,6 +25,9 @@ sequenceNo,name,title,menu,active
 200,md-base-doc,Document,,true
 300,md-base-period,Period,,true
 400,md-base-tax,Tax,,true
+10,md-bp-base,Base,,true
+10,md-mm-base,Base,,true
+20,md-mm-mnt,Maintenance,,true
 10,sd-account,Customer account,sd,true
 20,sd-order,Order,sd,true
 30,sd-invoice,Invoice,sd,true
