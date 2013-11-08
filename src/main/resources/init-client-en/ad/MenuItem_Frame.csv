@@ -61,10 +61,12 @@ sequenceNo,name,title,frame,bundle,menuItem,active
 10,customerAccount_Ui,Customer accounts,CustomerAccount_Ui,nan21.dnet.module.sd.ui.extjs,sd-account,true
 10,salesOrder_Ui,Orders,SalesOrder_Ui,nan21.dnet.module.sd.ui.extjs,sd-order,true
 10,salesInvoice_Ui,Invoices,SalesInvoice_Ui,nan21.dnet.module.sd.ui.extjs,sd-invoice,true
-10,paymentIn_Ui,Payments in,PaymentIn_Ui,nan21.dnet.module.sd.ui.extjs,sd-financial,true
+10,receivable_Ui,Receivables,Receivable_Ui,nan21.dnet.module.sd.ui.extjs,sd-financial,true
+20,paymentIn_Ui,Payments in,PaymentIn_Ui,nan21.dnet.module.sd.ui.extjs,sd-financial,true
 10,vendorAccount_Ui,Vendor accounts,VendorAccount_Ui,nan21.dnet.module.sc.ui.extjs,sc-account,true
 10,purchaseOrder_Ui,Orders,PurchaseOrder_Ui,nan21.dnet.module.sc.ui.extjs,sc-order,true
 10,purchaseInvoice_Ui,Invoices,PurchaseInvoice_Ui,nan21.dnet.module.sc.ui.extjs,sc-invoice,true
-10,paymentOut_Ui,Payments out,PaymentOut_Ui,nan21.dnet.module.sc.ui.extjs,sc-financial,true
+10,payable_Ui,Payables,Payable_Ui,nan21.dnet.module.sc.ui.extjs,sc-financial,true
+20,paymentOut_Ui,Payments out,PaymentOut_Ui,nan21.dnet.module.sc.ui.extjs,sc-financial,true
 10,inventory_Ui,Inventories,Inventory_Ui,nan21.dnet.module.md.ui.extjs,iv-base,true
 30,stock_Ui,Stocks,Stock_Ui,nan21.dnet.module.md.ui.extjs,iv-base,true
