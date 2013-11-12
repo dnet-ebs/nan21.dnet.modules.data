@@ -19,6 +19,8 @@ sequenceNo,name,title,menu,active
 80,bd-elem,Element,bd,false
 10,md-base,Base,md,true
 20,md-org,Organization,md,true
+10,md-org-ivt,Inventory,,true
+20,md-org-fin,Financial,,true
 30,md-bp,Business partner,md,true
 40,md-mm,Product,md,true
 100,md-base-bank,Bank,,true

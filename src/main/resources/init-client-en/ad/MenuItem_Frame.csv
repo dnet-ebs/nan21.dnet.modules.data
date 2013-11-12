@@ -43,8 +43,10 @@ sequenceNo,name,title,frame,bundle,menuItem,active
 20,docSequence_Ui,Document sequence,DocSequence_Ui,nan21.dnet.module.md.ui.extjs,md-base-doc,true
 10,taxCategory_Ui,Tax categories,TaxCategory_Ui,nan21.dnet.module.md.ui.extjs,md-base-tax,true
 20,tax_Ui,Taxes,Tax_Ui,nan21.dnet.module.md.ui.extjs,md-base-tax,true
-10,orgType_Ui,Organization types,OrgType_Ui,nan21.dnet.module.md.ui.extjs,md-org,true
-20,org_Ui,Organizations,Org_Ui,nan21.dnet.module.md.ui.extjs,md-org,true
+100,orgType_Ui,Organization types,OrgType_Ui,nan21.dnet.module.md.ui.extjs,md-org,true
+110,org_Ui,Organizations,Org_Ui,nan21.dnet.module.md.ui.extjs,md-org,true
+10,financialAccount_Ui,Financial accounts,FinancialAccount_Ui,nan21.dnet.module.md.ui.extjs,md-org-fin,true
+10,inventory_Ui,Inventories,Inventory_Ui,nan21.dnet.module.md.ui.extjs,md-org-ivt,true
 10,legalForm_Ui,Company legal forms,LegalForm_Ui,nan21.dnet.module.md.ui.extjs,md-bp-base,true
 15,bpContactPosition_Ui,Contact positions,BpContactPosition_Ui,nan21.dnet.module.md.ui.extjs,md-bp-base,true
 20,bpAccountGroup_Ui,Customer/Vendor groups,BpAccountGroup_Ui,nan21.dnet.module.md.ui.extjs,md-bp-base,true
@@ -63,10 +65,11 @@ sequenceNo,name,title,frame,bundle,menuItem,active
 10,salesInvoice_Ui,Invoices,SalesInvoice_Ui,nan21.dnet.module.sd.ui.extjs,sd-invoice,true
 10,receivable_Ui,Receivables,Receivable_Ui,nan21.dnet.module.sd.ui.extjs,sd-financial,true
 20,paymentIn_Ui,Payments in,PaymentIn_Ui,nan21.dnet.module.sd.ui.extjs,sd-financial,true
+30,paymentInAmount_Ui,Payment allocation,PaymentInAmount_Ui,nan21.dnet.module.sd.ui.extjs,sd-financial,true
 10,vendorAccount_Ui,Vendor accounts,VendorAccount_Ui,nan21.dnet.module.sc.ui.extjs,sc-account,true
 10,purchaseOrder_Ui,Orders,PurchaseOrder_Ui,nan21.dnet.module.sc.ui.extjs,sc-order,true
 10,purchaseInvoice_Ui,Invoices,PurchaseInvoice_Ui,nan21.dnet.module.sc.ui.extjs,sc-invoice,true
 10,payable_Ui,Payables,Payable_Ui,nan21.dnet.module.sc.ui.extjs,sc-financial,true
 20,paymentOut_Ui,Payments out,PaymentOut_Ui,nan21.dnet.module.sc.ui.extjs,sc-financial,true
-10,inventory_Ui,Inventories,Inventory_Ui,nan21.dnet.module.md.ui.extjs,iv-base,true
+30,paymentOutAmount_Ui,Payment allocation,PaymentOutAmount_Ui,nan21.dnet.module.sc.ui.extjs,sc-financial,true
 30,stock_Ui,Stocks,Stock_Ui,nan21.dnet.module.md.ui.extjs,iv-base,true
