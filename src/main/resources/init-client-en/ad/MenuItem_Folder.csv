@@ -33,9 +33,9 @@ sequenceNo,name,title,menu,active
 10,sd-account,Customer account,sd,true
 20,sd-order,Order,sd,true
 30,sd-invoice,Invoice,sd,true
-40,sd-financial,Financial,sd,false
+40,sd-financial,Financial,sd,true
 10,sc-account,Vendor account,sc,true
 20,sc-order,Order,sc,true
 30,sc-invoice,Invoice,sc,true
-40,sc-financial,Financial,sc,false
+40,sc-financial,Financial,sc,true
 10,iv-base,Base,,true
